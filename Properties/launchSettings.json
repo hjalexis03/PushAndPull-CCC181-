@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PushAndPull(CCC181)": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
